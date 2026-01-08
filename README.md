@@ -55,3 +55,7 @@ Implementation of logic puzzles and data structures via Advent of Code to mainta
 <p align="center">
   <i>"Keep moving, don't settle"</i>
 </p>
+
+---
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=PaulAbramov)
