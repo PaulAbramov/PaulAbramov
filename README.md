@@ -1,6 +1,6 @@
 # 🚀 Hey, I'm Paul
 
-**C#/.NET Systems & Full-Stack Engineer | Remote Worldwide 🌍**
+**C#/.NET & Full-Stack Engineer | Remote Worldwide 🌍**
 
 I am a software engineer from Germany dedicated to **eliminating unnecessary complexity**. I believe that clean architecture and pragmatic design are the keys to building robust, scalable solutions that stand the test of time.
 
@@ -59,3 +59,12 @@ Implementation of logic puzzles and data structures via Advent of Code to mainta
 ---
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=PaulAbramov)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulabramov)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=paulabramov)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=paulabramov.paulabramov)
+
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=C#/.NET%20Software%20Engineer)
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js)
+
+![Skyline](https://githubskyline.sherlockrebel.com/api/profile?name=paulabramov)
