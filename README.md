@@ -1,5 +1,5 @@
-🚀 Hey, I'm Paul
-C#/.NET Systems & Full-Stack Engineer | Remote Worldwide 🌍
+# 🚀 Hey, I'm Paul
+## C#/.NET Systems & Full-Stack Engineer | Remote Worldwide 🌍
 
 I am a passionate software engineer from Germany dedicated to eliminating unnecessary complexity. I believe that clean architecture and pragmatic design are the keys to building robust, scalable solutions that stand the test of time.
 
@@ -71,6 +71,6 @@ Game-Dev • Cryptocurrencies • Algorithmic Trading • Legacy Modernization �
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAbramov&layout=compact&theme=vision-glow&hide_langs_below=1)](https://github.com/PaulAbramov/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAbramov&layout=compact&theme=vision-glow&hide_langs_below=1)
 
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulAbramov&show_icons=true&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulAbramov&show_icons=true&theme=vision-glow)
