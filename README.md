@@ -1,6 +1,7 @@
 # 🚀 Hey, I'm Paul
 
 **C#/.NET & Full-Stack Engineer | Remote Worldwide 🌍**
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=C#/.NET%20&%20Full-Stack%20Engineer%20|%20Remote%20Worldwide%20🌍)
 
 I am a software engineer from Germany dedicated to **eliminating unnecessary complexity**. I believe that clean architecture and pragmatic design are the keys to building robust, scalable solutions that stand the test of time.
 
@@ -62,7 +63,7 @@ Implementation of logic puzzles and data structures via Advent of Code to mainta
 
 
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=C/.NET%20Software%20Engineer)
+
 
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js)
 
