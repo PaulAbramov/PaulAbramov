@@ -22,6 +22,7 @@ I am a software engineer from Germany dedicated to **eliminating unnecessary com
 ![JetBrains Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
 
 **Other Skills:** Blazor • WPF • WinForms • Entity Framework Core • TDD/Unit Testing • REST/SOAP • Unity • Python
+
 **Technical Interests:** Game-Dev • Cryptocurrencies • Algorithmic Trading • Legacy Modernization • Automation
 
 ---
