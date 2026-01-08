@@ -74,3 +74,4 @@ Game-Dev • Cryptocurrencies • Algorithmic Trading • Legacy Modernization �
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAbramov&layout=compact&theme=vision-glow&hide_langs_below=1)
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulAbramov&show_icons=true&theme=vision-glow)
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulAbramov)](https://github.com/anuraghazra/github-readme-stats)
