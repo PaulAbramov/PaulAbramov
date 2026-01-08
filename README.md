@@ -69,9 +69,3 @@ Game-Dev • Cryptocurrencies • Algorithmic Trading • Legacy Modernization �
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JetBrains Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAbramov&layout=compact&theme=vision-glow&hide_langs_below=1)
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulAbramov&show_icons=true&theme=vision-glow)
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulAbramov)](https://github.com/anuraghazra/github-readme-stats)
