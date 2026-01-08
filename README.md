@@ -4,16 +4,18 @@
 
 I am a software engineer from Germany dedicated to **eliminating unnecessary complexity**. I believe that clean architecture and pragmatic design are the keys to building robust, scalable solutions that stand the test of time.
 
+![paulabramov.com](https://img.shields.io/website?url=https%3A%2F%2Fwww.paulabramov.com&up_message=paulabramov.com&style=flat&link=https%3A%2F%2Fwww.paulabramov.com)
+
 ---
 
 ### 🛠 Tech Stack & Tools
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![JetBrains Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=rider&logoColor=white)
 
 **Other Skills:** Blazor • WPF • WinForms • Entity Framework Core • TDD/Unit Testing • REST/SOAP • Unity • Python
 
@@ -58,12 +60,9 @@ Implementation of logic puzzles and data structures via Advent of Code to mainta
 
 ---
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=PaulAbramov)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulabramov)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=paulabramov)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=paulabramov.paulabramov)
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=C#/.NET%20Software%20Engineer)
+
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=C/.NET%20Software%20Engineer)
 
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js)
 
