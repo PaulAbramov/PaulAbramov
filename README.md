@@ -6,12 +6,6 @@ I am a software engineer from Germany dedicated to **eliminating unnecessary com
 
 ---
 
-### 📊 My Coding Activity
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulAbramov&show_icons=true&theme=vision-glow)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAbramov&layout=compact&theme=vision-glow&hide_langs_below=1)
-
----
-
 ### 🛠 Tech Stack & Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
