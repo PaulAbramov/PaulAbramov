@@ -4,7 +4,7 @@
 
 I am a software engineer from Germany dedicated to **eliminating unnecessary complexity**. I believe that clean architecture and pragmatic design are the keys to building robust, scalable solutions that stand the test of time.
 
-https://img.shields.io/website?url=https%3A%2F%2Fwww.paulabramov.com&up_message=paulabramov.com&style=flat&link=https%3A%2F%2Fwww.paulabramov.com
+[paulabramov.com](https://img.shields.io/website?url=https%3A%2F%2Fwww.paulabramov.com&up_message=paulabramov.com&style=flat&link=https%3A%2F%2Fwww.paulabramov.com)
 
 ---
 
