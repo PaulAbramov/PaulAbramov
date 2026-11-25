@@ -25,6 +25,9 @@ I am a software engineer from Germany dedicated to **eliminating unnecessary com
 
 ### 📂 Featured Ecosystems
 
+#### 📑 [Dokumi: Contract Management](https://landing.dokumi.app/)
+My own SaaS product: contracts, notice periods, renewals and yearly costs in one place, for private people and businesses. Built end to end with Claude Code under strict rules: ASP.NET Core, Vue 3, WPF, SQL Server, runs on Azure, Windows Server and Linux. [Website](https://landing.dokumi.app/) • [LinkedIn](https://www.linkedin.com/company/dokumi/)
+
 #### 💹 [Automated Trading & Analysis](https://github.com/PaulAbramov/CryptoTradingSystem.General)
 A modular C# suite for real-time cryptocurrency data scraping, indicator calculation, and algorithmic strategy execution. Designed with a focus on high-performance data flows and decoupled architecture.
 
